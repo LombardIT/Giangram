@@ -1,7 +1,7 @@
-## Telegram messenger for Android
+## Giangram - The Telegram messenger for Android
 
-[Telegram](http://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
-This repo contains the official source code for [Telegram App for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger).
+[Giangram](http://Giangram.Lombardit.IT) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
+This repo contains the unofficial source code for [Telegram App for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger).
 
 ##Creating your Telegram Application
 
